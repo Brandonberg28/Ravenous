@@ -1,3 +1,7 @@
+Website that queries and displays data from Yelp.
+
+-------
+
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
